@@ -1,0 +1,16 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "type": "Person",
+    "id": "https://example.com/test",
+    "name": "test",
+    "preferredUsername": "test", 
+    "summary": "my simple activitypub",
+    "inbox": "https://example.com/inbox",
+    "outbox": "https://example.com/outbox",
+    "url": "https://example.com/test",
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/png",
+        "url": "https://example.com/icon.ong"
+    }
+}

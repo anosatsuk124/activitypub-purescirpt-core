@@ -1,0 +1,18 @@
+{
+  "name": "activitypub-purescirpt-core",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "postinstall": "spago install",
+    "build": "spago build",
+    "watch": "spago build --watch",
+    "test": "spago run"
+  },
+  "author": "Satsuki Akiba",
+  "license": "GPL-3.0-or-later",
+  "description": "",
+  "devDependencies": {
+    "purescript": "^0.14.5",
+    "spago": "^0.20.3"
+  }
+}
